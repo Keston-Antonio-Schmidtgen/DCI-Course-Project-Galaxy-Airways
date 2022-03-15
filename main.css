@@ -1,0 +1,193 @@
+@media (min-width: 900px) and (max-width:1028px) {
+  .card {
+    margin: auto;
+    border: solid 1px #dbdad7;
+    width: 90%;
+    padding-left: 10px !important;
+    padding-bottom: 10px !important;
+    padding-right: 10px !important;
+    padding-top: 0px !important
+  }
+}
+
+body {
+  margin: auto;
+  padding: 0;
+  margin: 0;
+}
+
+/* Navigation */
+
+.navbar {
+  margin: 0 0;
+}
+
+.nav-item {
+  margin-left: 21px;
+
+}
+
+.nav-link {
+  margin-right: 1em !important;
+}
+
+.nav-link:hover {
+  color: rgb(156, 39, 223);
+}
+
+.navbar-collapse {
+  display: flex;
+  align-content: flex-start;
+}
+
+/* Navbar & Logo */
+
+.description {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: scale(1.0) translate(-50%, -55%);
+  text-align: center;
+}
+
+
+.description h3 {
+  color: #a976da;
+  font-family: "Space Grotesk";
+}
+
+h1 {
+  color: #b88fdf;
+  font-family: "Space Grotesk";
+}
+
+p {
+  color: #000;
+  line-height: 1.5;
+
+}
+
+/* Booking Form */
+
+.card {
+  margin: auto;
+  border: solid 1px #e7e6e4;
+  width: 75%;
+  padding-left: 10px !important;
+  padding-bottom: 10px !important;
+  padding-right: 10px !important;
+  padding-top: 10px !important;
+
+}
+
+div.card-body {
+  padding: 0px
+}
+
+.custom-select {
+  width: 100%
+}
+
+.btn2 {
+  margin-left: 10%
+}
+
+input {
+  outline: 0 !important;
+  border-width: 0 0 2px !important;
+  border-color: #d1d1cf !important
+}
+
+input:focus {
+  border-color: #d1d1cf !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important
+}
+
+select {
+  outline: 0 !important;
+  border-width: 0 0 2px !important;
+  border-color: #d1d1cf !important
+}
+
+select:focus {
+  border-color: #d1d1cf !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important
+}
+
+.radiobtn {
+  margin-left: 3.5%
+}
+
+.icons {
+  margin: auto !important
+}
+
+/* Footer */
+
+
+/* Contact Us Form */
+
+.py-4 {
+  left: 50%;
+  position: absolute;
+  top: 60%;
+  transform: scale(1.0) translate(-50%, -55%);
+  text-align: center;
+  width: 30%;
+}
+
+.row-container {
+  left: 10%;
+  position: absolute;
+  top: 13%;
+  transform: scale(1.0) translate(-50%, -55%);
+  text-align: auto;
+}
+
+.nav-link,
+.navbar-brand {
+  color: #000;
+  cursor: pointer;
+}
+
+.form-label {
+  display: flex;
+}
+
+/* Star Club Login Form*/
+
+.star-club-login {
+  left: 20%;
+  position: absolute;
+  top: 80%;
+  transform: scale(1.0) translate(-50%, -55%);
+  text-align: auto;
+}
+
+/*Manage Booking & Star-club*/
+
+.logo-MMB {
+  left: 10%;
+  position: absolute;
+  top: 13%;
+  transform: scale(1.0) translate(-50%, -55%);
+  text-align: auto;
+}
+
+.input-MMB {
+  left: 75%;
+  position: absolute;
+  top: 20%;
+  transform: scale(1.0) translate(-50%, -55%);
+  text-align: auto;
+}
+
+.footer {
+  left: 50%;
+  position: absolute;
+  top: 90%;
+  transform: scale(1.0) translate(-50%, -55%);
+  text-align: auto;
+}
